@@ -1,0 +1,19 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "https://tckimlik.nvi.gov.tr/service/KPSPublic.asmx"
+    ],
+    "collectionTypes": [
+      "System.Collections.Generic.Dictionary`2",
+      "System.Collections.Generic.List`1"
+    ],
+    "namespaceMappings": [
+      "*, MernisServiceReference"
+    ],
+    "references": [
+      "Microsoft.Extensions.DependencyInjection.Abstractions, {Microsoft.Extensions.DependencyInjection.Abstractions, 8.0.0}"
+    ],
+    "targetFramework": "net8.0",
+    "typeReuseMode": "All"
+  }
+}
